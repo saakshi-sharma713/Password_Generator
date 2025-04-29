@@ -4,7 +4,7 @@ A simple and user-friendly password generator built with React and Vite. Create 
 
 ## ✨ Features
 
-*   **Customizable Password Length:** Generate passwords with lengths ranging from 6 to 100 characters.
+*   **Customizable Password Length:** Generate passwords with customizable length
 *   **Include Numbers:** Easily add numbers to your passwords for extra security.
 *   **Include Special Characters:**  Choose to include special characters for enhanced password complexity.
 *   **Easy Copy to Clipboard:**  One-click copy button to quickly copy the generated password to your clipboard.
